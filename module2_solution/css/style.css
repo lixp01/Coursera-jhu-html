@@ -14,12 +14,16 @@ h1 {
 h2 {
   margin-top: 0px;
   float: right;
+  width: 120px;
+  text-align: center;
 }
 
+/*
 .bg-pink, .bg-red, .bg-yellow {
   width: 120px;
   text-align: center;
 }
+*/
 
 .bg-pink {
   background: pink;
@@ -85,7 +89,6 @@ h2 {
 p {
   padding: 4px;
   clear: both;
-  margin:0;
 }
 
 

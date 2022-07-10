@@ -16,6 +16,11 @@ h2 {
   float: right;
 }
 
+.bg-pink, .bg-red, .bg-yellow {
+  width: 120px;
+  text-align: center;
+}
+
 .bg-pink {
   background: pink;
 }
@@ -41,7 +46,7 @@ h2 {
     border: 3px solid black;
     height: 200px;
     margin: 5px;
-    background-color: #a0a0a0;
+    background-color: #bbbbbb;
 }
 
 /********** Large devices only **********/

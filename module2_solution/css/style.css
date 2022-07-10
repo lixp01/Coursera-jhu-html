@@ -13,11 +13,9 @@ h2 {
   float: right;
 }
 
-
 /* Simple Responsive Framework. */
 .row {
-    background-color: #a0a0a0;
-    width: 99%;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     font-family: Helvetica;
@@ -30,7 +28,8 @@ h2 {
     float: left;
     border: 2px solid red;
     height: 150px;
-    margin: 2px;
+    margin: 3px;
+    background-color: #a0a0a0;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -117,7 +116,8 @@ h2 {
 
 }  
 
-p {
+div p {
+  margin: 4px;
   clear: right;
 }
 
